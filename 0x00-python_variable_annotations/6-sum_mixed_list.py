@@ -14,3 +14,4 @@ def sum_mixed_list(mxd_lst: List[int, float]) -> float:
     Returns:
         float: returns the sum of the list as float
     """
+    return sum(mxd_lst)
