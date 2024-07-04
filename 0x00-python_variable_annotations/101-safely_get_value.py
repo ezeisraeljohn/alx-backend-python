@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """The Mapping
 """
 from typing import Mapping, Any, Union, TypeVar
